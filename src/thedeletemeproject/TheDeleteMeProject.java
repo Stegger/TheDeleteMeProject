@@ -17,6 +17,7 @@ public class TheDeleteMeProject
      */
     public static void main(String[] args)
     {
+        System.out.println("Hello Jeppe");
         System.out.println("Hello Trine");
     }
     
