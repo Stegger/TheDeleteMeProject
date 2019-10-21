@@ -19,7 +19,7 @@ public class TheDeleteMeProject
     {
         System.out.println("Hello Jeppe");
         System.out.println("Hello Trine");
-        System.out.println("Hello world");
+        System.out.println("Bye world");
     }
     
 }
