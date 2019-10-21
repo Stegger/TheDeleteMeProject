@@ -21,6 +21,7 @@ public class TheDeleteMeProject
         System.out.println("Hello Trine");
         System.out.println("Reset using NetBeans!");
         System.out.println("Commit 1");
+        System.out.println("Commit 2");
     }
     
 }
