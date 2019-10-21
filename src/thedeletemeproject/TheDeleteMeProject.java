@@ -18,6 +18,7 @@ public class TheDeleteMeProject
     public static void main(String[] args)
     {
         System.out.println("Hello Trine");
+        System.out.println("Reset using NetBeans!");
     }
     
 }
